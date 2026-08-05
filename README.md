@@ -12,3 +12,7 @@
 
 - Email: keilondemoura55@gmail.com
 - Tel: (19) 99806-2561
+
+![GitHub followers](https://img.shields.io/github/followers/SEUUSUARIO?style=social)
+
+![GitHub stars](https://img.shields.io/github/stars/SEUUSUARIO?style=social)
