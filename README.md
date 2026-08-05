@@ -10,5 +10,5 @@
 
 ## 📫 Contato
 
-- Email: seuemail@email.com
-- LinkedIn: https://linkedin.com/in/seuperfil
+- Email: keilondemoura55@gmail.com
+- Tel: (19) 99806-2561
