@@ -20,4 +20,4 @@
 <img src="https://skillicons.dev/icons?i=html,css,js,git,github,vscode" />
 
 
-<img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="400"/>
+
