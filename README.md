@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text-Keilon%201°%20DES%202026%20&fontSize=40&fontAlingY=40" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text-Keilon%201°%20DES%202026%20&fontSize=40&fontAlignY=40" />
 
 💻 Estudante de Desenvolvimento de Software
 
