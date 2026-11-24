@@ -16,4 +16,4 @@
 
 ## 💻 Tecnologias
 
-<img src="https://skillicons.dev/icons?i=html,css,js,git,github,vscode,gitbash,virtualbox" />
+<img src="https://skillicons.dev/icons?i=html,css,js,git,github" />
