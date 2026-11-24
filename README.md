@@ -6,9 +6,8 @@
 
 ## 🚀 Sobre mim
 
-- 🌱 Estudando HTML, CSS e JavaScript
+- 🌱 Estudando TI
 - 📚 Aprendendo Git e GitHub
-- 🎯 Objetivo: Tornar-me Desenvolvedor Full Stack
 
 ## 📫 Contato
 
