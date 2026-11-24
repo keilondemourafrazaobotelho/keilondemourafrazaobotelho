@@ -1,4 +1,4 @@
-<img src="https://vercel.app°%20DES%202026%20&fontSize=40&fontAlignY=40" />
+<img src="https://vercel.app" />
 
 💻 Estudante de Desenvolvimento de Software
 
