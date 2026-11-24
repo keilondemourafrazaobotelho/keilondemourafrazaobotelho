@@ -1,4 +1,4 @@
-<img src="https://vercel.app" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=300&color-gradient&text-Keilon%201°%20DES%202026%20&fontSize=40&fontAlingY=40" />
 
 💻 Estudante de Desenvolvimento de Software
 
@@ -16,4 +16,4 @@
 
 ## 💻 Tecnologias
 
-<img src="https://skillicons.dev" />
+<img src="https://skillicons.dev/icons?i=html,css,js,git,github,vscode,gitbash,virtualbox" />
